@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpersync",
+        "uuid": 4571450,
+        "checksum": "ec07y"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
